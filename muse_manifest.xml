@@ -1,0 +1,235 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="coelgio.com" resolutions="1x" timestamp="1598293990943">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="servicios.css" crc="490787368" ref="servicios"/>
+    <file name="quienes-somos.css" crc="3790091330" ref="quienes-somos"/>
+    <file name="campus.css" crc="128866684" ref="campus"/>
+    <file name="index.css" crc="3907832026" ref="index"/>
+    <file name="resena.css" crc="3904910265" ref="resena"/>
+    <file name="inicio.css" crc="25953536" ref="inicio"/>
+    <file name="admisiones.css" crc="4168489667" ref="admisiones"/>
+  </folder>
+  <folder name="assets">
+    <file name="5b17ba7f549dfc14223e6e539bbffbfa.gif" crc="3808147133" seo="true" mt="1596843941000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="inicio:quienes-somos:index:admisiones:servicios:campus:resena"/>
+    <file name="museutils.js" crc="3939489907" ref="inicio:quienes-somos:index:admisiones:servicios:campus:resena"/>
+    <file name="whatinput.js" crc="86476730" ref="inicio:quienes-somos:index:admisiones:servicios:campus:resena"/>
+    <file name="museconfig.js" crc="128606099" ref="inicio:quienes-somos:index:admisiones:servicios:campus:resena"/>
+    <file name="jquery.watch.js" crc="522499760" ref="inicio:quienes-somos:index:admisiones:servicios:campus:resena"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="inicio"/>
+    <file name="webpro.js" crc="3856315280" ref="inicio:quienes-somos:admisiones:servicios:campus:resena"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="inicio:quienes-somos:admisiones:servicios:campus:resena"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="inicio:quienes-somos:admisiones:servicios:campus:resena"/>
+    <file name="touchswipe.js" crc="3888935200" ref="inicio:quienes-somos:admisiones:servicios:campus:resena"/>
+    <file name="require.js" crc="4177726516" ref="inicio:quienes-somos:index:admisiones:servicios:campus:resena"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4048995551" ref="inicio"/>
+    <file name="blank.gif" crc="4208392903" ref="inicio:quienes-somos:index:admisiones:servicios:campus:resena"/>
+    <file name="u372_states.png" crc="292161587" ref="inicio"/>
+    <file name="u372_states-r.png" crc="76528747" ref="inicio"/>
+    <file name="u1844_states.png" crc="101266245" ref="inicio"/>
+    <file name="u1844_states-r.png" crc="4068714099" ref="inicio"/>
+    <file name="u375_states.png" crc="240826854" ref="inicio"/>
+    <file name="u375_states-r.png" crc="13076921" ref="inicio"/>
+    <file name="u505-4.png" crc="274599964" ref="inicio"/>
+    <file name="u502_states.png" crc="4174237087" ref="inicio"/>
+    <file name="u502_states-r.png" crc="4246549977" ref="inicio"/>
+    <file name="u514-4.png" crc="4226329252" ref="inicio"/>
+    <file name="u517-4.png" crc="3872750339" ref="inicio"/>
+    <file name="u520-4.png" crc="3778194572" ref="inicio"/>
+    <file name="u566-4.png" crc="478529509" ref="inicio"/>
+    <file name="u569-4.png" crc="475630301" ref="inicio"/>
+    <file name="maxresdefault-crop-u556.png" crc="98638190" seo="true" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="u583-4.png" crc="4063139390" ref="inicio"/>
+    <file name="whatsapp image 2020-03-10 at 100030 am (1)-u599-fr.jpg" crc="495336386" ref="inicio"/>
+    <file name="whatsapp image 2020-03-10 at 100033 am-u598-fr.jpg" crc="3766799463" ref="inicio"/>
+    <file name="whatsapp image 2020-03-10 at 100032 am (10)-u597-fr.jpg" crc="121388242" ref="inicio"/>
+    <file name="whatsapp image 2020-03-10 at 100031 am (6)-u640-fr.jpg" crc="523188508" ref="inicio"/>
+    <file name="whatsapp image 2020-03-10 at 100030 am (1).jpg" crc="115789914" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-03-10 at 100033 am.jpg" crc="415870162" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-03-10 at 100032 am (10).jpg" crc="3762450809" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-03-10 at 100031 am (6).jpg" crc="212142899" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="logoefqm-crop-u717.png" crc="498250792" seo="true" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="descargar.jpg" crc="35649361" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="personalizado_logo.jpg" crc="436290743" seo="true" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="u888-4.png" crc="3765545239" ref="inicio"/>
+    <file name="u932-4.png" crc="4008869280" ref="inicio"/>
+    <file name="u938-4.png" crc="522411791" ref="inicio"/>
+    <file name="u957_states.png" crc="34298384" ref="inicio"/>
+    <file name="u957_states-r.png" crc="81052520" ref="inicio"/>
+    <file name="facebook.png" crc="3947645" seo="true" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="u960_states.png" crc="131907856" ref="inicio"/>
+    <file name="u960_states-r.png" crc="3803483415" ref="inicio"/>
+    <file name="u966-4.png" crc="3875861932" ref="inicio"/>
+    <file name="u969-7.png" crc="115368675" ref="inicio"/>
+    <file name="u981-4.png" crc="255876862" ref="inicio"/>
+    <file name="u972-7.png" crc="455129327" ref="inicio"/>
+    <file name="u984-4.png" crc="3957369881" ref="inicio"/>
+    <file name="u975-7.png" crc="505592970" ref="inicio"/>
+    <file name="u987-4.png" crc="4091213405" ref="inicio"/>
+    <file name="u978-7.png" crc="193294233" ref="inicio"/>
+    <file name="u990-4.png" crc="4247531562" ref="inicio"/>
+    <file name="u996-4.png" crc="3993746054" ref="inicio"/>
+    <file name="u999_states.png" crc="3961348768" ref="inicio"/>
+    <file name="u999_states-r.png" crc="244023955" ref="inicio"/>
+    <file name="u1035-13.png" crc="4232474522" ref="inicio"/>
+    <file name="escudo.png" crc="264354099" seo="true" ref="inicio:quienes-somos:admisiones:servicios:campus:resena">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="admisiones" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="campus" alt=""/>
+      <caption webpage="resena" alt=""/>
+    </file>
+    <file name="u1038-13.png" crc="439072346" ref="inicio"/>
+    <file name="escudo2.png" crc="3884510818" seo="true" ref="inicio:quienes-somos:admisiones:servicios:campus:resena">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="admisiones" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="campus" alt=""/>
+      <caption webpage="resena" alt=""/>
+    </file>
+    <file name="u167-4-a.png" crc="403525475" ref="inicio"/>
+    <file name="u1041-4-a.png" crc="378722361" ref="inicio"/>
+    <file name="u1044_states.png" crc="56300797" ref="inicio"/>
+    <file name="u1044_states-r.png" crc="4196466105" ref="inicio"/>
+    <file name="u1047_states.png" crc="112708776" ref="inicio"/>
+    <file name="u1047_states-r.png" crc="3776741424" ref="inicio"/>
+    <file name="u1050_states.png" crc="388565063" ref="inicio"/>
+    <file name="u1050_states-r.png" crc="468406852" ref="inicio"/>
+    <file name="u1053_states.png" crc="4141641095" ref="inicio"/>
+    <file name="u1053_states-r.png" crc="236882588" ref="inicio"/>
+    <file name="u1343-10.png" crc="4275940174" ref="quienes-somos"/>
+    <file name="u1352-8.png" crc="209199691" ref="quienes-somos"/>
+    <file name="u1355_states.png" crc="4100006154" ref="quienes-somos"/>
+    <file name="u1355_states-r.png" crc="4131996485" ref="quienes-somos"/>
+    <file name="u1361-4.png" crc="4100088556" ref="quienes-somos"/>
+    <file name="u1364_states.png" crc="223932571" ref="quienes-somos"/>
+    <file name="u1364_states-r.png" crc="4007700221" ref="quienes-somos"/>
+    <file name="u1346-10.png" crc="4287087762" ref="quienes-somos"/>
+    <file name="u1325-13.png" crc="4232474522" ref="quienes-somos"/>
+    <file name="u1326-13.png" crc="439072346" ref="quienes-somos"/>
+    <file name="u1243-4.png" crc="403525475" ref="quienes-somos"/>
+    <file name="u1247_states.png" crc="378722361" ref="quienes-somos"/>
+    <file name="u1247_states-r.png" crc="417207262" ref="quienes-somos"/>
+    <file name="u1248-4-a.png" crc="56300797" ref="quienes-somos"/>
+    <file name="u1249_states.png" crc="112708776" ref="quienes-somos"/>
+    <file name="u1249_states-r.png" crc="3776741424" ref="quienes-somos"/>
+    <file name="u1250_states.png" crc="388565063" ref="quienes-somos"/>
+    <file name="u1250_states-r.png" crc="468406852" ref="quienes-somos"/>
+    <file name="u1251_states.png" crc="4141641095" ref="quienes-somos"/>
+    <file name="u1251_states-r.png" crc="236882588" ref="quienes-somos"/>
+    <file name="instagram oficial (6)-crop-u449.png" crc="299407445" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u462_states.png" crc="42838323" ref="index"/>
+    <file name="u462_states-r.png" crc="364119154" ref="index"/>
+    <file name="u465_states.png" crc="4112712637" ref="index"/>
+    <file name="u465_states-r.png" crc="3970989827" ref="index"/>
+    <file name="u1613-4.png" crc="3768277438" ref="admisiones"/>
+    <file name="u1634-7.png" crc="3904448832" ref="admisiones"/>
+    <file name="u1637-9.png" crc="233128836" ref="admisiones"/>
+    <file name="u1847_states.png" crc="336696311" ref="admisiones"/>
+    <file name="u1847_states-r.png" crc="122346576" ref="admisiones"/>
+    <file name="u1646-7.png" crc="3896113023" ref="admisiones"/>
+    <file name="u1652-7.png" crc="4254747944" ref="admisiones"/>
+    <file name="u1655-7.png" crc="3972660966" ref="admisiones"/>
+    <file name="u1598-13.png" crc="4232474522" ref="admisiones"/>
+    <file name="u1599-13.png" crc="439072346" ref="admisiones"/>
+    <file name="u1494-4.png" crc="403525475" ref="admisiones"/>
+    <file name="u1510_states.png" crc="378722361" ref="admisiones"/>
+    <file name="u1510_states-r.png" crc="417207262" ref="admisiones"/>
+    <file name="u1511_states.png" crc="56300797" ref="admisiones"/>
+    <file name="u1511_states-r.png" crc="4196466105" ref="admisiones"/>
+    <file name="u1512-4-a.png" crc="112708776" ref="admisiones"/>
+    <file name="u1508_states.png" crc="388565063" ref="admisiones"/>
+    <file name="u1508_states-r.png" crc="468406852" ref="admisiones"/>
+    <file name="u1509_states.png" crc="4141641095" ref="admisiones"/>
+    <file name="u1509_states-r.png" crc="236882588" ref="admisiones"/>
+    <file name="u1753-4.png" crc="3993746054" ref="servicios"/>
+    <file name="u1754_states.png" crc="3961348768" ref="servicios"/>
+    <file name="u1754_states-r.png" crc="244023955" ref="servicios"/>
+    <file name="u1764-4.png" crc="41835960" ref="servicios"/>
+    <file name="u1812-4.png" crc="217892009" ref="servicios"/>
+    <file name="u1820_states.png" crc="506388433" ref="servicios"/>
+    <file name="u1820_states-r.png" crc="291977165" ref="servicios"/>
+    <file name="u1823_states.png" crc="4080826501" ref="servicios"/>
+    <file name="u1823_states-r.png" crc="3868940466" ref="servicios"/>
+    <file name="u1835_states.png" crc="496987640" ref="servicios"/>
+    <file name="u1835_states-r.png" crc="4220794394" ref="servicios"/>
+    <file name="u1793-13.png" crc="4232474522" ref="servicios"/>
+    <file name="u1794-13.png" crc="439072346" ref="servicios"/>
+    <file name="u1674-4.png" crc="403525475" ref="servicios"/>
+    <file name="u1678_states.png" crc="378722361" ref="servicios"/>
+    <file name="u1678_states-r.png" crc="417207262" ref="servicios"/>
+    <file name="u1680_states.png" crc="56300797" ref="servicios"/>
+    <file name="u1680_states-r.png" crc="4196466105" ref="servicios"/>
+    <file name="u1682_states.png" crc="112708776" ref="servicios"/>
+    <file name="u1682_states-r.png" crc="3776741424" ref="servicios"/>
+    <file name="u1679-4-a.png" crc="388565063" ref="servicios"/>
+    <file name="u1681_states.png" crc="4141641095" ref="servicios"/>
+    <file name="u1681_states-r.png" crc="236882588" ref="servicios"/>
+    <file name="u1808-4.png" crc="373192592" ref="servicios"/>
+    <file name="u1813-4.png" crc="253338164" ref="servicios"/>
+    <file name="u1828-4.png" crc="281296714" ref="servicios"/>
+    <file name="u1144-4.png" crc="167314621" ref="campus"/>
+    <file name="u1204-13.png" crc="4232474522" ref="campus"/>
+    <file name="u1205-13.png" crc="439072346" ref="campus"/>
+    <file name="u1061-4.png" crc="403525475" ref="campus"/>
+    <file name="u1076_states.png" crc="378722361" ref="campus"/>
+    <file name="u1076_states-r.png" crc="417207262" ref="campus"/>
+    <file name="u1075_states.png" crc="56300797" ref="campus"/>
+    <file name="u1075_states-r.png" crc="4196466105" ref="campus"/>
+    <file name="u1077_states.png" crc="112708776" ref="campus"/>
+    <file name="u1077_states-r.png" crc="3776741424" ref="campus"/>
+    <file name="u1078_states.png" crc="388565063" ref="campus"/>
+    <file name="u1078_states-r.png" crc="468406852" ref="campus"/>
+    <file name="u1079_states.png" crc="4141641095" ref="campus"/>
+    <file name="u1079_states-r.png" crc="236882588" ref="campus"/>
+    <file name="u1465-15.png" crc="4102547404" ref="resena"/>
+    <file name="u1466_states.png" crc="22624226" ref="resena"/>
+    <file name="u1466_states-r.png" crc="1344574" ref="resena"/>
+    <file name="u1477-13.png" crc="4232474522" ref="resena"/>
+    <file name="u1478-13.png" crc="439072346" ref="resena"/>
+    <file name="u1384-4.png" crc="403525475" ref="resena"/>
+    <file name="u1395_states.png" crc="378722361" ref="resena"/>
+    <file name="u1395_states-r.png" crc="417207262" ref="resena"/>
+    <file name="u1396_states.png" crc="56300797" ref="resena"/>
+    <file name="u1396_states-r.png" crc="4196466105" ref="resena"/>
+    <file name="u1397_states.png" crc="112708776" ref="resena"/>
+    <file name="u1397_states-r.png" crc="3776741424" ref="resena"/>
+    <file name="u1398_states.png" crc="388565063" ref="resena"/>
+    <file name="u1398_states-r.png" crc="468406852" ref="resena"/>
+    <file name="u1394_states.png" crc="4141641095" ref="resena"/>
+    <file name="u1394_states-r.png" crc="236882588" ref="resena"/>
+  </folder>
+  <file name="inicio.html" crc="3831125251" seo="true" mt="1598293889257" redirect="true"/>
+  <file name="quienes-somos.html" crc="14732524" seo="true" mt="1597116892633" redirect="true"/>
+  <file name="index.html" crc="4001929194" seo="true" mt="1597116892633" redirect="true"/>
+  <file name="admisiones.html" crc="187715348" seo="true" mt="1597533775463" redirect="true"/>
+  <file name="servicios.html" crc="4171398681" seo="true" mt="1597117938342" redirect="true"/>
+  <file name="campus.html" crc="460289310" seo="true" mt="1597116892633" redirect="true"/>
+  <file name="resena.html" crc="4076965045" seo="true" mt="1597116892633" redirect="true"/>
+</manifest>
